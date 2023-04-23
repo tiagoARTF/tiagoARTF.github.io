@@ -34,7 +34,7 @@
     margin: 0 5%;
   }
   .section__pic-container {
-    width: 225px;
+    width: 270px;
     height: 275px;
     margin: 0 auto 2rem;
   }
@@ -82,7 +82,7 @@
     text-align: center;
   }
   .section__pic-container {
-    width: 40vw;
+    width: 50vw;
     height: 50vw;
     justify-content: center;
   }
